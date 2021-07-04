@@ -1,4 +1,4 @@
-# Faculty Information Management Web Application (html,CSS)
+# Faculty Information Management Web Application (html,CSS, JavaScript)
 Faculty Information System is a web application in which all the information regarding the Faculty of Computer Science Department can be stored and retrieved. The admin will have access to all the information present in the database. They will be able to add or update any data in the system. The system will allow the faculty members to store and retrieve their information easily. The system will provide a level of security.
 Faculty Information System will hold the following information:
 a)	Faculty personal information.
